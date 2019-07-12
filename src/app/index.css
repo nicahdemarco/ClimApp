@@ -1,0 +1,12 @@
+body{
+     
+     background: #4568DC;
+     background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);
+     background: linear-gradient(to right, #B06AB3, #4568DC);
+
+
+}
+
+/* .card-body{
+     box-shadow:4px 4px 4px rgba(38, 38, 39, 0.4);
+} */
